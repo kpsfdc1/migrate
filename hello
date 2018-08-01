@@ -1,7 +1,8 @@
-class hello wind-user
+
+class hello linx-user
 {
-	public static void main()	##from wind-user
+	public static void main()	#from linux-user
 		{
-			system.out.println("from wind-user");
+			system.out.println("from linux-user");
 		}	
 }#EOF
