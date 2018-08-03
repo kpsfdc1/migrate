@@ -1,0 +1,8 @@
+
+class hello linx-user
+{
+	public static void main()	#from linux-user
+		{
+			system.out.println("from linux-user");
+		}	
+}#EOF ##from R1
